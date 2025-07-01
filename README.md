@@ -43,18 +43,6 @@ This project presents an interactive ESG (Environmental, Social, and Governance)
 
 ---
 
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `ESG.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop).
-3. Explore the four report pages to gain insights into:
-   - Sector-level ESG risks
-   - Company-level ESG distribution
-   - Controversy impact
-   - Risk category comparison
-
----
-
 ## 📸 Dashboard Previews
 
 ![image](https://github.com/user-attachments/assets/c4edd02a-2ba8-4656-ba40-2f925e888a50)
@@ -70,13 +58,5 @@ This project presents an interactive ESG (Environmental, Social, and Governance)
 - Performed ESG risk analysis on 444 S&P 500 companies using a Kaggle dataset.
 - Built fully interactive dashboards with DAX and Power Query.
 - Delivered visual insights through ESG funnels, risk-level reports, and category-wise analytics.
-
----
-
-## 🔗 Links
-
-- 📂 [Download PBIX File](./ESG.pbix)
-- 🔗 [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
-- 🧠 [Kaggle Dataset Source](https://www.kaggle.com/)
 
 ---
